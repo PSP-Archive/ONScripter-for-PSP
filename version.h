@@ -1,0 +1,1 @@
+#define ONS_VERSION "20060227(2.55)"
